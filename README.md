@@ -189,12 +189,12 @@ Once a poster is fetched from OMDB , poster is saved to DB to reduce duplicate r
 
 * If you don't want to create a channel or group, use your chat ID / username as the channel ID. When you send a file to a bot, it will be saved in the database.
 
-## Thanks to 
-
-* 
+ 
 
 
-* [subinps](https://github.com/subinps/Media-Search-bot)
+
+
+
 
 
 
