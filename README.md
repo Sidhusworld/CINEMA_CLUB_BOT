@@ -16,9 +16,9 @@
 * Added Force subscribe (Only channel subscribes can use the bot)
 * Ability to restrict groups(AUTH_GROUPS)
 
-#### Deploy To Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PR0FESS0R-99/LuciferMoringstar_Robot)
+
+
 
 
 #### Hard Way
@@ -104,9 +104,9 @@ Once a poster is fetched from OMDB , poster is saved to DB to reduce duplicate r
 
 * Ability to restrict groups(AUTH_GROUPS)
 
-#### Deploy To Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PR0FESS0R-99/LuciferMoringstar_Robot)
+
+
 
 #### Hard Way
 
