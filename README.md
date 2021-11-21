@@ -191,9 +191,6 @@ Once a poster is fetched from OMDB , poster is saved to DB to reduce duplicate r
 
 #about
 
-creator : kings (https://t.me/kingsontelegram )
-channel : cinema club ( https://t.me/cinemafest2021 )
-owner : kingss ( t.me/OWNEROFKINGS )
 
 
 
